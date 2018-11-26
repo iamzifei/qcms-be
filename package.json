@@ -1,0 +1,25 @@
+{
+  "name": "qcms-be",
+  "version": "1.0.0",
+  "description": "the demo backend project returning the CMS data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamzifei/qcms-be.git"
+  },
+  "author": "James Gong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamzifei/qcms-be/issues"
+  },
+  "homepage": "https://github.com/iamzifei/qcms-be#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  }
+}
